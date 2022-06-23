@@ -1,0 +1,8 @@
+name: AutoInvis
+main: main.java.me.nodis.autoinvis.AutoInvis
+version: 1.0.1
+author: Nodis2
+permissions:
+  autoinvis.bypass:
+    description: Bypass AutoInvis's effects
+    default: false
